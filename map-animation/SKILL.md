@@ -138,6 +138,8 @@ One array → camera targets, pin order, route segments, and labels stay in sync
 
 ## Deliver & verify (rendered stills → MP4)
 
+> **Packaged helper** (`scripts/`): tile your stills with `scripts/contact-sheet.sh sheet.png f-hook.png f-mid.png f-end.png`, then assert the encode with `scripts/probe-mp4.sh out.mp4 [WxH] [fps]`. See `scripts/README.md`.
+
 The code-renderable path is a Remotion composition — frame-deterministic, so any exact frame renders headlessly with **no seek harness**. Use this tier when the deliverable is an MP4/GIF (vector map, data-driven, exact labels) or batches per dataset; for an Earth Studio + AE comp, the deliverable is the AE project + rendered footage instead, verified by scrubbing the master comp.
 
 **Output contract:**
