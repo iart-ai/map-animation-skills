@@ -2,6 +2,8 @@
 
 > Map animation skills for AI coding agents — build editorial, "Vox-style" animated maps for explainer and documentary video: camera zooms, drawn-on routes, dropped pins, region highlights, and the 12fps stutter.
 
+![Map Animation Skills — animated showcase](./showcase.gif)
+
 ## Install
 
 ```bash
