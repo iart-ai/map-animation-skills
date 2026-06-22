@@ -10,13 +10,21 @@
 npx skills add iart-ai/map-animation-skills
 ```
 
+Or add it as a Claude Code plugin marketplace:
+
+```bash
+/plugin marketplace add iart-ai/map-animation-skills
+```
+
+then `/plugin install map-animation-skills`.
+
 Works with Claude Code, Cursor, Codex, GitHub Copilot, and 40+ agents.
 
 ## What's included
 
 | Skill | What it does |
 |-------|--------------|
-| [map-animation](./map-animation) | Animate maps — camera zoom/orbit/pan, pins, drawn-on routes, region highlights, and labels, via Google Earth Studio → After Effects or code-renderable GeoJSON/SVG vector maps driven from a coordinates array. |
+| [map-animation](./skills/map-animation) | Animate maps — camera zoom/orbit/pan, pins, drawn-on routes, region highlights, and labels, via Google Earth Studio → After Effects or code-renderable GeoJSON/SVG vector maps driven from a coordinates array. |
 
 *Want data-driven maps as editable, on-brand video — change the coordinates and re-export, batch many? [iart.ai](https://iart.ai) is the AI motion agent that does that from a prompt or data.*
 
@@ -37,7 +45,7 @@ Works with Claude Code, Cursor, Codex, GitHub Copilot, and 40+ agents.
 
 ## Skills
 
-- [map-animation](./map-animation)
+- [map-animation](./skills/map-animation)
 
 ## Topics
 
