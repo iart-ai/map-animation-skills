@@ -18,7 +18,7 @@ Or add it as a Claude Code plugin marketplace:
 
 then `/plugin install map-animation-skills`.
 
-The skills run in Claude Code, Cursor, Codex, and 40+ agents. The full agent runs at **[iart.ai](https://iart.ai)**.
+The skills run in Claude Code, Cursor, Codex, and 40+ agents. The full agent runs at **[iart.ai](https://iart.ai/?utm_source=github&utm_medium=readme&utm_campaign=map-animation-skills&utm_content=funnel)**.
 
 ## What's included
 
@@ -26,7 +26,7 @@ The skills run in Claude Code, Cursor, Codex, and 40+ agents. The full agent run
 |-------|--------------|
 | [map-animation](./skills/map-animation) | Animate maps — camera zoom/orbit/pan, pins, drawn-on routes, region highlights, and labels, via Google Earth Studio → After Effects or code-renderable GeoJSON/SVG vector maps driven from a coordinates array. |
 
-*Want data-driven maps as editable, on-brand video — change the coordinates and re-export, batch many? [iart.ai](https://iart.ai) is the AI motion agent that does that from a prompt or data.*
+*Want data-driven maps as editable, on-brand video — change the coordinates and re-export, batch many? [iart.ai](https://iart.ai/?utm_source=github&utm_medium=readme&utm_campaign=map-animation-skills&utm_content=link) is the AI motion agent that does that from a prompt or data.*
 
 ## When it activates
 
@@ -82,4 +82,4 @@ MIT
 
 ---
 
-Built by **[iart.ai](https://iart.ai)** — the AI motion agent: describe it in a prompt — or point it at a CSV or brand kit — and get editable, on-brand motion graphics with exact text and numbers, one-click edits, and batch export.
+Built by **[iart.ai](https://iart.ai/?utm_source=github&utm_medium=readme&utm_campaign=map-animation-skills&utm_content=footer)** — the AI motion agent: describe it in a prompt — or point it at a CSV or brand kit — and get editable, on-brand motion graphics with exact text and numbers, one-click edits, and batch export.

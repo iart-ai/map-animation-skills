@@ -210,4 +210,4 @@ svg.selectAll("path").data(geojson.features).join("path").attr("d", path);
 - The "Vox-style" descriptor is aesthetic shorthand for this editorial map look and implies no affiliation; the skill is named for the technique.
 
 ---
-Built by **[iart.ai](https://iart.ai)** — the AI motion agent for editable, on-brand motion graphics.
+Built by **[iart.ai](https://iart.ai/?utm_source=github&utm_medium=readme&utm_campaign=map-animation-skills&utm_content=skill_footer&utm_term=map-animation)** — the AI motion agent for editable, on-brand motion graphics.
